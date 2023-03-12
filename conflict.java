@@ -5,7 +5,7 @@ public class conflict {
     public conflict(int x, int y) {
         this.x = x;
         this.y = y;
-        System.out.println(Rafsan);
+        System.out.println("Rafsan Pi");
     }
 
     public int getX() {
