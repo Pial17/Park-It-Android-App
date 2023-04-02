@@ -1,6 +1,5 @@
 public class lab1 {
     int a,b;
-    String d,e,f;
 
     public String getF() {
         return f;
