@@ -1,6 +1,10 @@
 public class lab1 {
     int a,b;
-    String d,e;
+    String d,e,f;
+
+    public String getF() {
+        return f;
+    }
 
     public lab1(int a, int b, String d, String e) {
         this.a = a;
