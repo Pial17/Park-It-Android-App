@@ -1,6 +1,6 @@
 public class git {
-    int a,b;
-    String x,y;
+    int a,b,p;
+    String x,y,pial;
 
     public git(int a) {
         this.a = a;
