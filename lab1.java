@@ -1,6 +1,4 @@
 public class lab1 {
-    int a,b,al;
-    String x,y,ali;
 
     public lab1(int a, int b, String x, String y) {
         this.a = a;
